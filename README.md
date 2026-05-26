@@ -107,8 +107,8 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ## 👤 Author
 
 **Your Name**  
-[GitHub Profile Link]  
-[Optional: LinkedIn, email]
+[zinebgr]  
+[zinebgrabsi.gmail.com]
 
 ## 🙏 Acknowledgements
 
