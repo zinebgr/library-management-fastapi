@@ -91,19 +91,6 @@ The API returns appropriate HTTP status codes with descriptive messages:
 - `404` – Resource not found (user, book, author, borrow record)
 - `500` – Internal server error (should not happen under normal conditions)
 
-curl -X POST http://localhost:8000/borrow/ \
-  -H "Content-Type: application/json" \
-  -d '{"user_id": 1, "book_id": 2}'
-
-  ## 🤝 Contributing
-
-If you'd like to contribute, please open an issue or a pull request.  
-Make sure to follow PEP8 and add appropriate comments.
-
-## 📄 License
-
-This project is licensed under the **MIT License** – feel free to use and modify it.
-
 ## 👤 Author
 
 **Your Name**  
